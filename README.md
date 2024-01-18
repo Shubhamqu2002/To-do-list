@@ -1,0 +1,1 @@
+This project is a basic ToDo list that allows users to add, edit, and remove tasks. It serves as a practical example of using front-end technologies to create an interactive and user-friendly interface for managing tasks.
